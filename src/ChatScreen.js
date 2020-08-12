@@ -9,21 +9,21 @@ const [messages, setMessages] = useState([
     {
     name: 'Ellen',
     image: 'https://filmdaily.co/wp-content/uploads/2020/08/ellendegeneresshow-lede.jpeg',
-    message: "What's up",
+    message: "Hello Caxton!",
     },
     {
         name: 'Ellen',
         image: 'https://filmdaily.co/wp-content/uploads/2020/08/ellendegeneresshow-lede.jpeg',
-        message: "Hello?"
+        message: "Anyone up for coffee at least?"
     },
     {
             name: 'Ellen',
             image:'https://filmdaily.co/wp-content/uploads/2020/08/ellendegeneresshow-lede.jpeg',
-            message: "Anyone there?"
+            message: "No one?"
     },
     {
     
-        message: "Here I am"
+        message: "Absolutely! A coffee on your show! That's awesome!"
     }
 ]);
 const handleSend = (e) => {
