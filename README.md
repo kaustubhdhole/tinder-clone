@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img style="max-width: 5px; height: auto; src="https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png">
+  <img style="max-width: 80px; height: auto; src="https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png">
   <a href="https://en.wikipedia.org/wiki/Tinder_(app)">
     Tinder Clone
   </a>
