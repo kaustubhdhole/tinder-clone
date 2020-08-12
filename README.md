@@ -17,10 +17,8 @@ The Tinder Clone Project has 3 main screens:
   <a href="https://reactnative.dev/docs/contributing">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=reactnative">
-    <img src="https://twitter.com/kaustubhdhole" alt="Follow @KaustubhDhole" />
-  </a>
 </p>
+
 ## Contents
 
 - [Requirements](#-requirements)
@@ -33,10 +31,14 @@ The Tinder Clone Project has 3 main screens:
 (Tested with node v8.10.0 and npm 3.5.2)
 
 ## 🙏 Thank You
- <a href="https://www.youtube.com/user/ssangha32"> Sonny Sangha </a> and <a href="https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ"> Qazi </a> 
+ Thank you very much to <a href="https://www.youtube.com/user/ssangha32"> Sonny Sangha </a> and <a href="https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ">Rafeh Qazi</a>.
 
  ## 📷 Screenshots
-![Chats](/images/chats.png)
+ - Chats 
+![Chats](/images/Chats.png)
+ - Chat Screen
 ![ChatScreen](/images/ChatScreen.png)
+ - Footer
 ![Footer](/images/Footer.png)
+ - Header
 ![Header](/images/Header.png)
